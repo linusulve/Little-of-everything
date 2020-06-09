@@ -76,4 +76,4 @@ EXEC sp_addlinkedserver @server='SRV_NAME',
    @provider=N'SQLNCLI',
    @datasrc=N'aaa.bbb.ccc.ddd';
 
-EXEC sp_addlinkedsrvlogin 'SRV_NAME', 'false', NULL, 'your_remote_db_login_user', 'your_remote_db_login_password'
+EXEC sp_addlinkedsrvlogin 'SRV_NAME', 'false', NULL, 'Hidden_user', 'Hidden_password'
