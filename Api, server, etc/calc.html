@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+ <head>
+   <meta charset="utf-8">
+   <title>Calculator</title>
+ </head>
+ <body>
+   <script>
+   let varo = parseInt(prompt("choose a number"));
+   let type = prompt("choose, +, -, *, /");
+   let vart = parseInt(prompt("choose a second number"));
+switch(type){
+  case "+":
+  let ansAdd = varo + vart;
+  document.write(ansAdd);
+break
+
+case "-":
+  let ansSub = varo + vart;
+  document.write(ansSub);
+break
+
+case "*":
+  let ansMul = varo * vart;
+  document.write(ansMul);
+break
+
+case "/":
+  let ansDiv = varo / vart;
+  document.write(ansDiv);
+break
+}
+</script>
+</body>
+</html>
