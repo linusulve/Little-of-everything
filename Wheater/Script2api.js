@@ -1,5 +1,5 @@
 const NewsAPI = require('newsapi');
-const newsapi = new NewsAPI('5bb0f58a0d0e4a6db8a04080e875ad99');
+const newsapi = new NewsAPI('3aae5e15ed35a6c4778b29cc7811bfc7');
 // To query /v2/top-headlines
 // All options passed to topHeadlines are optional, but you need to include at least one of them
 newsapi.v2.topHeadlines({
