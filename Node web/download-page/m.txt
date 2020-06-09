@@ -1,0 +1,59 @@
+1. vad är serverside programming: back-end, clienten har inte tillgång till koden, Hanterar data. 
+den tar hand om saken vi gör på server delen. client delen är allt som händer på användarens sida.
+in conclusion allt clienten skickar information skickas till servern som finns i back-end av front-end sidan 
+tar handom information. och pratar mellan client och server. nätverk baserat som ligger på server. 
+
+2. vad är npm? node package manager. package = olika modules,json etc. (express,http,body.parser): 
+beövs för att installera olika modules så våra funktioner skall kunna fungera. 
+hjälper oss installera olika packages,
+
+3. vilka fördelar finns det med att använda javascript i server sida?
+fungerar med node, lättare att koda med, intregrarerar bra med html/css, ett mycket snabbare språk som 
+kan jobba med funktioner snabbare (fast ändast med lätta server hanteringar) billigare att använda javascript och fungerar till
+dem flesta webb browsers / samt de flesta datorerna. 
+
+4. vad är ide och vilka ide kan man använda för applikationer
+IDE = intregrated development enviroment 
+Text editor, Kompilator, Debugger jetbrains 
+
+5. vilka företag använder sig av node.js netflix, uber, yahoo, paypal, elon musk tesla.
+
+6. vilka typer kan man utveckla med node applickationer? filmstreaming, betaltjänst 
+
+7. vad är node.js? är en opensource platform uppbyggd av b8 engine. 
+
+8. vilka fördelar finns det med node.js. det är gratis de är snabbt, lätt språk samma struktur som javascript
+allt färdigt byggt i modulerna, en community som uppdaterar 
+
+9. finns det några nackdelar med node.js
+kan inte hantera tunga program bra kör i singel trend, 
+
+10. vad är callback? callback körs i en funktion, error callback = fungerar om det blir error i funktionen.
+
+11. vad är Repl-terminal? skriver man node så kommer det upp en terminal, 
+
+12. REPL commando .help .exit .editor 
+
+13. hur installerar man npm package globalt. npm install -g "name on package" = global package module.
+
+14 vad innehåller package.js i javascript. namn, project, verision, dependency, 
+
+15. vad skillnaden mellan coremudule och npm-module  
+core finns installerad när du installerar node (finns i själva node package) npm måste man installera separat 
+efter man har installerat node.js
+
+16. specifiera andra moduler. programmet behöver när du kör require så dependecy. vad den är beroende på vilka package som behövs
+
+17. vad gör module.export och vad är de bra till? den exporterar text från andra filer, gör så man kan ha så liten main fil 
+som möjligt, 
+
+18. vad gör fs? filesystem. man får åtkommst till fil systemet på sin dator för att kunna läsa,redigera,etc.
+
+19. ta reda på ssl och tls. kryptering, protokoll, tls används för det mesta nu för tiden, tls bättre och enklare 
+att använda sig av. ssl behöver man ha certificat för att använda. 
+
+
+
+
+
+5bb0f58a0d0e4a6db8a04080e875ad99

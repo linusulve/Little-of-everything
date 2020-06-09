@@ -1,0 +1,165 @@
+____________________________________________________________________________________________________________
+Vad är viktigaste för ett bra 2d spel
+
+Gameplay 68,4% (12 svar)
+Leveldesign 63,2% (11 svar)
+Story 52,6% (10 svar)
+Musik 52,6% (9 svar)
+Grafiken 26,3% (5 svar)
+
+____________________________________________________________________________________________________________
+Varför valde du dessa?
+
+1. Storyn är vesentlig. Vill inte slösa 20 timmar för en mediocre slut. samt för att bli investerad i spelet. 
+Grafik har en limitation när det kommer till 2d spel
+
+2. Det spelet har att förmedla är det viktigaste. Onödigt att investera i något som inte är intressant, 
+och grafiken kan man lätt bli trött på. 
+
+3. Grafiken, Leveldesign och Gameplay. Jag valde dessa tre för att utan dessa tre punkter blir spelet "svartvitt"
+och tråkigt. Vissa spel kan ha väldigt lika level-design vilket gör de repetitiva, 
+detta leder till att spelet inte blir kul.
+
+4. Gameplay är det viktigaste för att hålla mig fast is spelet en längre stund.
+Om det är svårt att interagera med spelvärlden så tappar jag snabbt lusten att spela
+(pga. frustration).
+
+5. Jag valde musiken, leveldesignen samt gameplay eftersom grafiken och story inte är lika viktigt. Musik, 
+leveldesign och gameplay är det som i förstahand lyfter fram ett 2D-spel. (Fast paced)
+
+6. Musiken, Leveldesign, Gameplay. Jag valde dessa för att dessa behövs för att skapa en bra känsla i spelet. 
+Det vill säga med en bra atmosfär kommer det skapas ett bra spel.
+
+7. Grafiken är inte viktigt utan gameplay är det som styr. Även om smuts blir skinande så är det fortfarande smuts
+
+8. inte investerad i storyn utan vill kunna ta upp spelet när som och bara njuta av gameplay och musiken
+
+9. Tycker inte grafik eller story är något som lyfter framm 2d spel utifrån andra.
+
+10. Story viktigaste och att leveldesign och övrigt gameplay går hand i hand. 
+
+11. grafiken är inte optimal 2D.
+
+12. Story 
+
+13. gameplay annars äre tråkigt
+
+14. Grafik för att man ska se den under hela spelet.
+
+15. Musiken i relation med leveldesignen
+
+16. x
+
+17. x
+
+18. x
+
+19. x
+___________________________________________________________________________________________________________________
+
+Vad för design föredrar du?
+
+Pixlar 57,9% (11 svar)
+Digitalt ritat 42,1% (8 svar)
+
+___________________________________________________________________________________________________________________
+
+1. Digitalt ritat. Det överflödar med 2D spel med pixlad design
+men då man väl hittar ett 2D spel med digitalt ritat design 
+och det är bra kan det bli populärt snabbt. T.ex Hollow Knight.
+
+2. Har kört mer utav digitalt ritade spel som holowknight
+
+3. Pixlar ger en mer nostalgisk känsla samt känns mer minimalistiskt
+
+4. Ingen preferens men kör fler spel som är digitalt ritad 
+
+5. Ingen preferens men kör fler spel som är digitalt ritad 
+
+6. Pixel för det är en bättre känsla 
+
+7. Känner att digitalt ritat är mer flytande design
+
+8. preferens Digitalt ritade som holowknight 
+
+9. Pixel känns mer expressive
+
+10. Digitalt för gillar ej pixlar 
+
+11. Digitalt känns mer unikt 
+
+12. Pixel känns mer välkommand 
+
+13. pixlar, snyggare
+
+14. X
+
+15. X
+
+16. Spel som teraria, Pixlar
+
+17. X
+
+18. X
+
+____________________________________________________________________________________________________________________
+
+Vilket är ditt favorit 2D spel och vad äre som står ut från andra.
+
+1. "Hollow Knight"(Digitalt) och "Enter The Gungeon"(Pixlar). Spelen har bra atmosfär som gör att det är 
+lätt att man lever sig in. Båda är fast paced, samt musik som passar bra till upplevelsen.
+
+2. "Hollow Knight" inget trams med tutorials eller något spel som håller dig i handen, Utan släpper dig rakt in
+i spelet.
+
+3. "osu!" Ett rythmen spel som är driven av gemenskapen som skapara nivåer/maps som ger spelet en hög replaybility 
+för man har nya nivåer att klara. Svårigheten är alltid upp till vad du klarar.
+
+4. "osu!"
+
+5. "Corpse Party" Spelet har intressanta, väl skrivna karaktärer, intressanta miljöer och 
+en story som forskar runt occultism - ett populärt ämne i Japan.
+
+6. "Sunless Skies/Sunless Seas". Ganska simpelt spel med lite djup i sin story.
+
+7. "Touhou Luna Nights" Bra spel 
+
+8. "Touhou Luna Nights"
+
+9. "Terraia" Mycket att göra innan det blir tråkigt
+
+10. "Celeste" För sin musik samt spelteknik/leveldesign
+
+11. "Touhou Luna Nights 
+
+12. "Super Meat Boy" Bra leveldesign samt musik som gör att man kan ta upp det när man vill
+ingen story. Lite frusterande spel/svårt spel
+
+13. "Stardew Valley" Lungt spel, story finns men mest ett sple där du får välja dina vägar och ta din tid.
+väldigt tid konsumerat
+
+14. "Terraria" 
+
+15. "Hollow Knight" ett bra fast paced spel
+
+16. "X"
+
+17. "X"
+
+18. "Celeste"
+
+19. "X"
+
+____________________________________________________________________________________________________________________
+
+Spelutvecklings miljöer?
+
+Unity 89,5% (17 svar)
+Godot 42,1% (8 svar)
+XNA, MonoGame 10,5% (2 svar)
+Nej 10,5% (2 svar)
+Scratch 5,3% (1 svar) 
+
+
+
+

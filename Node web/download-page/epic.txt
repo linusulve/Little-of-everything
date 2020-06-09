@@ -1,0 +1,32 @@
+unreal engine 
+XNA/Monogame engine that made celeste. 
+
+
+stick for unreal engine 
+not it's strongest suit for 2d games but it can always be done as an example Octopath traveler 
+was made in ue4 
+
+
+
+
+
+Unity
+Is a game engine with a fully-featured editor. Unity focuses on developers’ productivity by providing lots of features and an assets store.
+Uses C# as the programming language, which is a good compromise between speed and performance.
+Godot
+Is similar to Unity, although it has a much smaller assets store. On the contrary, I found working with Godot easier, with a nicer editor, being more 2D-oriented, and using a Python-like language that makes development quite fast.
+MonoGame
+Is a framework, which does less for you than engines like Unity. It is still high level enough to have things working quickly, as it handles for you things like rendering, audio or input.
+It doesn’t provide an editor, apart from the Content Pipeline tool to manage assets.
+Uses C#.
+Love2D
+Similar to MonoGame, it focuses on providing the basic tools to help the developer get started with coding the game.
+Uses Lua as the programming language, which means that it’s good for prototyping and getting stuff done quickly.
+Custom tools: SDL2 + Low level APIs (OpenGL, Vulkan, Metal, console-specific)
+SDL2 is a low level library to handle graphics, audio, and input. It provides you with less out-of-the-box utilities, compared to a framework. It has got bindings for a couple of languages, but I only considered C++ and Rust, as going for the low level approach makes sense if using a proper systems programming language with no garbage collector (this is why I don’t include C# here).
+C++
+Is the industry standard programming language. It generates the most performant code. However, even with all the recent improvements, it’s still quite easy to shoot on your foot. Also, managing dependencies and builds is a pain, compared to other languages.
+Rust
+As a programming language, I like it a lot more than C++. Not only has got cargo, which simplifies dependencies management and builds, but also helps you write concurrent and memory safe code, which generate some of the worst kind of bugs a game can have.
+I didn’t consider Rust + existing engines, as they are still very young.
+

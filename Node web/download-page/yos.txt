@@ -1,0 +1,13 @@
+//post account data 
+
+curl -H "content-Type: applictation/json" -X POST -d 
+' {"balance": 100, "name": "savings"} '
+"http://localhost:3000/accounts/0"
+
+//gets account data
+
+curl "hhtp://loaclhost:3000/accounts"
+
+//deletes account data and a specified id 
+
+curl -X DELETE "hhtp://localhost:3000/accounts/0"

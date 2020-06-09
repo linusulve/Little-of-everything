@@ -1,0 +1,25 @@
+oop - objektorentering programmering. 
+1. inkapsling                        private 
+2. arv                               protected
+3. polymorfism                       (internal) 
+4. abstraktion                       public 
+
+
+
+public override tostring
+class dragon : Monster = hämtar värdet från classen monster
+behöver ha stor kunna hämta 
+
+
+
+PAL,SVGA,XGA,SXGA,WSXGA+,HD,WQXGA
+
+skapa en dropdown list vid Upplösning
+
+List<Media> bibliotek = new List<Media>();
+Bok        nyBok      = new Bok();
+Ljudspår nyttLjud = new Ljudspår();
+Film       nyFilm     = new FIlm();
+bibliotek.Add( nyBok );
+bibliotek.Add( nyttLjudspår );
+bibliotek.Add( nyFilm );

@@ -1,0 +1,11 @@
+{
+  "name": "newfunproject",
+  "version": "1.0.0",
+  "description": "a server handeling project",
+  "main": "332231",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "leffe",
+  "license": "ISC"
+}

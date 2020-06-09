@@ -1,0 +1,15 @@
+{
+  "name": "brin",
+  "version": "1.0.0",
+  "description": "",
+  "main": "apinew.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "linus",
+  "license": "ISC",
+  "dependencies": {
+    "newsapi": "^2.4.0",
+    "node.js": "0.0.0"
+  }
+}
